@@ -1,0 +1,6 @@
+name: 'Practice 2'
+description: 'Github Actions Practice'
+runs:
+  using: 'docker'
+  image: 'DockerFile'
+  
